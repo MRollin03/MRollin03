@@ -66,9 +66,8 @@ I enjoy building practical software solutions and exploring the intersection bet
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=MRollin03&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=MRollin03&theme=default_repocard&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRollin03&layout=compact&theme=default_repocard)
+
 
 ---
 
