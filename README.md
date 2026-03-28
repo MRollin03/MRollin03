@@ -8,10 +8,11 @@ Looking for student jobs, internships, and collaborations
 ## About
 I like building practical software and exploring development, hardware, and design.
 
-Outside coding:
-- Playing Minecraft  
+Outside coding:  
 - Flying FPV drones  
-- Designing 3D parts  
+- Designing 3D parts   
+- Gym Sessions
+- And a massive craft beer lover
 
 ---
 
